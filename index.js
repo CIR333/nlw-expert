@@ -1,91 +1,91 @@
 const perguntas = [
     {
-      pergunta: "Qual é a finalidade do comando 'console.log()' em JavaScript?",
+      pergunta: "Quem ta estourada?",
       respostas: [
-        "Exibir uma mensagem de erro",
-        "Imprimir dados no console",
-        "Criar uma variável"
+        "m word",
+        "as irma",
+        "rayanne"
       ],
       correta: 1
     },
     {
-      pergunta: "Qual é a função do operador '===' em comparações em JavaScript?",
+      pergunta: "Quem tem o menor utero?",
       respostas: [
-        "Comparação de valores sem considerar o tipo",
-        "Atribuição de valores",
-        "Comparação estrita de valores e tipos"
+        "All seeds",
+        "Kaua",
+        "Jose matias penelope de arruda games"
       ],
       correta: 2
     },
     {
-      pergunta: "Como se declara uma variável em JavaScript?",
+      pergunta: "Quem é mais provavel de cagar junto?",
       respostas: [
-        "let myVar;",
-        "const myVar = 10;",
-        "ambas as opções acima estão corretas"
+        "Allan Neto e Jotinha",
+        "Allan Kaua e Eric",
+        "Allan Eric e Neto"
       ],
       correta: 2
     },
     {
-      pergunta: "O que é uma função em JavaScript?",
+      pergunta: "Entre jogar genshin e comer prikito, oq jotinga prefere?",
       respostas: [
-        "Um tipo de dado",
-        "Um bloco de código reutilizável",
-        "Uma variável global"
+        "jogar genshin",
+        "leite quentinho no cu",
+        "comer prikito"
       ],
       correta: 1
     },
     {
-      pergunta: "Qual é a diferença entre 'let' e 'const' na declaração de variáveis?",
+      pergunta: "Quem tem o maior utero?",
       respostas: [
-        "Nenhuma, são sinônimos",
-        "let é usado para valores constantes, const para variáveis",
-        "let permite reatribuição, const cria variáveis imutáveis"
+        "Kaua",
+        "Eric",
+        "Jotinga"
       ],
       correta: 2
     },
     {
-      pergunta: "O que é o DOM em JavaScript?",
+      pergunta: "Quem é a mãe mais bonita?",
       respostas: [
-        "Um método de criptografia",
-        "Um modelo de objeto para manipular documentos HTML",
-        "Uma linguagem de programação"
+        "Wal",
+        "Todas (ate as q n foram citadas)",
+        "Diene"
       ],
       correta: 1
     },
     {
-      pergunta: "Como se realiza uma iteração sobre os elementos de um array em JavaScript?",
+      pergunta: "Qual os pronomes que uma pessoa invisivel prefere?",
       respostas: [
-        "Usando a estrutura 'if-else'",
-        "Com a declaração 'switch'",
-        "Utilizando loops como 'for' ou 'forEach'"
+        "Ele/dele",
+        "Elu/delu",
+        "Ca/dê"
       ],
       correta: 2
     },
     {
-      pergunta: "O que é o JSON em JavaScript?",
+      pergunta: "Quem é mais bonita?",
       respostas: [
-        "Um método de formatação de texto",
-        "Uma linguagem de estilização",
-        "Um formato de dados leve e intercambiável"
+        "Bruna marquezine",
+        "Betânia",
+        "Diene"
       ],
       correta: 2
     },
     {
-      pergunta: "Qual é a diferença entre 'null' e 'undefined' em JavaScript?",
+      pergunta: "Quem é mais gostoso?",
       respostas: [
-        "São iguais, usados de forma intercambiável",
-        "'null' representa a ausência de valor, 'undefined' é atribuído explicitamente",
-        "Ambos representam valores vazios"
+        "Allan",
+        "Ricardo",
+        "Dudu"
       ],
       correta: 1
     },
     {
-      pergunta: "Como se adiciona um evento a um elemento HTML usando JavaScript?",
+      pergunta: "Quem vai farmar sumeru pra gente?",
       respostas: [
-        "Apenas com CSS",
-        "Usando o atributo 'event'",
-        "Através do método 'addEventListener'"
+        "Kaua",
+        "Eric",
+        "Dudu"
       ],
       correta: 2
     },
